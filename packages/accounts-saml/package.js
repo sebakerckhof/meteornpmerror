@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Test",
   version: "1.1.0",
-  name: "seba:test",
+  name: "test",
   git: "ssh://git@git.barco.com:7999/ED/blue.git"
 });
 
